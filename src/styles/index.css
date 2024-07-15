@@ -1,0 +1,49 @@
+@import './variables.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    @apply inline-flex items-center justify-center border border-solid transition;
+    border-radius: var(--radius-base);
+    gap: var(--spacing-xs);
+    padding: var(--spacing-xs) var(--spacing-md);
+  }
+
+  .button > svg {
+    height: 1em;
+    min-height: 1em;
+    min-width: 1em;
+    width: 1em;
+  }
+
+  .button--primary {
+    background: var(--button-primary-bg-default);
+    border-color: var(--button-primary-border-default);
+    color: var(--button-primary-foreground);
+  }
+  .button--primary:hover {
+    background: var(--button-primary-bg-hover);
+    border-color: var(--button-primary-border-hover);
+  }
+  .button--primary:active {
+    background: var(--button-primary-bg-active);
+    border-color: var(--button-primary-border-active);
+  }
+
+  .button--secondary {
+    background: var(--button-secondary-bg-default);
+    border-color: var(--button-secondary-border-default);
+    color: var(--button-secondary-foreground);
+  }
+  .button--secondary:hover {
+    background: var(--button-secondary-bg-hover);
+    border-color: var(--button-secondary-border-hover);
+  }
+  .button--secondary:active {
+    background: var(--button-secondary-bg-active);
+    border-color: var(--button-secondary-border-active);
+  }
+}
