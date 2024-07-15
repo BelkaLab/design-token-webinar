@@ -19,7 +19,7 @@
     width: 1em;
   }
 
-  .button--primary {
+  /* .button--primary {
     background: var(--button-primary-bg-default);
     border-color: var(--button-primary-border-default);
     color: var(--button-primary-foreground);
@@ -45,5 +45,5 @@
   .button--secondary:active {
     background: var(--button-secondary-bg-active);
     border-color: var(--button-secondary-border-active);
-  }
+  } */
 }
