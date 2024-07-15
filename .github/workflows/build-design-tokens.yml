@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - main
+      - webinar
     paths:
       - tokens/**/*.tokens.json
 
