@@ -1162,7 +1162,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.color.red.500}",
+          "value": "{global.color.blue.500}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1178,7 +1178,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.color.red.800}",
+          "value": "{global.color.blue.800}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1194,7 +1194,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.color.red.950}",
+          "value": "{global.color.blue.950}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1608,11 +1608,7 @@
         },
         "foreground": {
           "type": "color",
-<<<<<<< HEAD
-          "value": "{global.color.green.900}",
-=======
           "value": "{semantic.color.background.secondary}",
->>>>>>> cdcfca2e618f85dece0c9366b95f1e08794a2b06
           "description": "",
           "$extensions": {
             "mode": {},
@@ -1686,11 +1682,7 @@
         "semantic",
         "specific"
       ],
-<<<<<<< HEAD
-      "createdAt": "2024-06-18T09:54:05.178Z"
-=======
-      "createdAt": "2024-07-15T09:41:09.793Z"
->>>>>>> cdcfca2e618f85dece0c9366b95f1e08794a2b06
+      "createdAt": "2024-07-15T09:54:52.108Z"
     }
   }
 }
