@@ -1,4 +1,10 @@
-# Design Tokens Playground
+![Belka logo](belka.png 'Belka')
+
+# Automate your handoff - intro to design tokens for developers
+
+We recorded a webinar where Anas Araid and Mattia Filardi, Belka’s front-end engineers, demonstrates how we use this pattern in our projects.
+
+👉 Watch it here: https://www.youtube.com/channel/UCZEk3O-yRFDNzJwqOcnKgYQ
 
 ## Table of contents
 
@@ -13,7 +19,8 @@ This repo is an example designed to manage and automate the integration of desig
 It utilizes Style Dictionary for token transformation and GitHub Actions to automate the build process.
 
 Additionally, it incorporates the TokensBrücke Figma plugin, which helps in syncing design tokens from Figma to your GitHub repository and opening pull requests.\
-Here is the Figma file: [Design Tokens Playground](https://www.figma.com/design/pngfx9RUEPRrMIjveQVY3I/Design-Tokens-Playground?m=auto&t=nAFuB2iouJ4L2eYl-6)
+
+Here is the [Figma file](https://www.figma.com/design/Im3BQtjCRwdPfROSNvcEgj/Webinar-Intro-to-Design-Tokens-for-Devs?node-id=62-2&m=dev) that you can duplicate.
 
 These tools work together to ensure that design tokens are consistently up-to-date, streamlining the development workflow through a series of automated steps and scripts.
 
