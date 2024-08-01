@@ -1,11 +1,5 @@
 ![Belka logo](belka.png 'Belka')
 
-# Automate your handoff - intro to design tokens for developers
-
-We recorded a webinar where Anas Araid and Mattia Filardi, Belka’s front-end engineers, demonstrates how we use this sync tokens in our projects.
-
-👉 Watch it here: https://www.youtube.com/channel/UCZEk3O-yRFDNzJwqOcnKgYQ
-
 ## Table of contents
 
 - [Overview](#overview)
