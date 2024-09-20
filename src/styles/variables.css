@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 20 Sep 2024 16:12:41 GMT
+ * Generated on Fri, 20 Sep 2024 16:20:56 GMT
  */
 
 :root {
@@ -91,9 +91,9 @@
   --color-background-secondary-active: var(--color-blue-800);
   --color-background-secondary-hover: var(--color-blue-600);
   --color-background-secondary: var(--color-blue-500);
-  --color-background-primary-active: var(--color-blue-950);
-  --color-background-primary-hover: var(--color-blue-800);
-  --color-background-primary: var(--color-blue-500);
+  --color-background-primary-active: var(--color-red-950);
+  --color-background-primary-hover: var(--color-red-800);
+  --color-background-primary: var(--color-red-500);
   --color-background-default: var(--color-white);
   --button-secondary-foreground: var(--color-background-secondary);
   --button-secondary-border-active: var(--color-background-secondary-active);
