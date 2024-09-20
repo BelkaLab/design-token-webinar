@@ -29,6 +29,8 @@ jobs:
 
       - name: Install Dependencies
         run: yarn install
+        env:
+          YARN_ENABLE_HARDENED_MODE: false
 
       - name: Build
         run: yarn run build:design-tokens
